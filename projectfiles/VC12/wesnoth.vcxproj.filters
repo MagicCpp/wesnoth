@@ -1528,6 +1528,9 @@
     </ClCompile>
     <ClCompile Include="..\..\src\gui\dialogs\multiplayer\mp_staging.cpp">
       <Filter>Gui\Dialogs\Multiplayer</Filter>
+	</ClCompile>
+    <ClCompile Include="..\..\src\scripting\lua_preferences.cpp">
+      <Filter>Scripting</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -2935,6 +2938,9 @@
     </ClInclude>
     <ClInclude Include="..\..\src\gui\dialogs\multiplayer\mp_staging.hpp">
       <Filter>Gui\Dialogs\Multiplayer</Filter>
+	</ClInclude>
+    <ClInclude Include="..\..\src\scripting\lua_preferences.hpp">
+      <Filter>Scripting</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
